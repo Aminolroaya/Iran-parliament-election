@@ -1,3 +1,5 @@
+:warning: The included codes are for our project developed in 2016.
+
 # Iran-parliament-election
 
 This project is about the hashtag diffusion in Iran parliament election 2016 gathered by Instagram API.
