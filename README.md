@@ -22,8 +22,4 @@ For using meme four word filteration with fan network run `memeFourWordFan.py`.
 
 You can evaluate the inferred network and ground truth with `evaluation.py`.
 
-#Contact me
-
-**Please email to (https://z.aminolroaya@gmail.com) if you want to use the codes or data.**
-
 
